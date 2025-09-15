@@ -1,0 +1,1 @@
+{"result":"success","id":54387,"Version":"3.2","URL":"https://www.icloud.com/shortcuts/81923c8e6dec4b47a7e8cafc85ff0e16","Notes":"Use regex to match YouTube links better\r\n\r\nFixed only opening the first link when downloading (shortcuts bug)","Release":"June 03, 2025"}
