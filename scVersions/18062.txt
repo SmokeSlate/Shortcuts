@@ -1,0 +1,1 @@
+{"result":"success","id":54363,"Version":"2.2","URL":"https://www.icloud.com/shortcuts/4ce343a9fa4749dd995f65f9a9e62119","Notes":"Fixed % bug \r\nAdded open ChatGPT to fix some issues","Release":"June 02, 2025"}
