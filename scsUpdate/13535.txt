@@ -1,0 +1,1 @@
+{"result":"success","id":54182,"Version":"5.8","URL":"https://www.icloud.com/shortcuts/d6ab2a80572a4ff8b8c75eb4e3bcb4e8","Notes":"Changed api url and share links","Release":"May 21, 2025"}
