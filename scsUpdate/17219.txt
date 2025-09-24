@@ -1,1 +1,0 @@
-{"result":"success","id":43173,"Version":"1.0","URL":"https://www.icloud.com/shortcuts/a2b4eda7f31e4553811adfa17d96b4cd","Notes":"The shortcut had been made and I just haven?t published it for a while so I decided to publish it for shortcut developers to use.","Release":"November 12, 2023"}

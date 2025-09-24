@@ -1,1 +1,0 @@
-{"result":"success","id":46734,"Version":"1.1","URL":"https://www.icloud.com/shortcuts/60f79bd21f2f41488c2c62b6e524b937","Notes":"Dep fix that uses ?contains? instead of ?is?","Release":"May 15, 2024"}

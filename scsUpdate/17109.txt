@@ -1,1 +1,0 @@
-{"result":"success","id":42933,"Version":"1.2","URL":"https://www.icloud.com/shortcuts/7aa3482e8a9b47aca9433974c2cce236","Notes":"Changes:\r\n ?  Slightly modified menu prompts\r\nKnown bugs:\r\n ?  None","Release":"October 29, 2023"}

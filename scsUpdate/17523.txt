@@ -1,1 +1,0 @@
-{"result":"success","id":44021,"Version":"1.3","URL":"https://www.icloud.com/shortcuts/4d6a4f3a7827414c932c2a79cbfbd4cf","Notes":"? Changes:\r\n? Automatic folder creation\r\n? New info screen\r\n? Fixed small folder creation bug\r\n? Known Bugs:\r\n? None, Report in settings","Release":"December 24, 2023"}

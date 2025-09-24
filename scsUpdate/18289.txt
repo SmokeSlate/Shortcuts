@@ -1,1 +1,0 @@
-{"result":"success","id":54344,"Version":"3.2","URL":"https://www.icloud.com/shortcuts/075fce1a3c884032abcbe558b18ca133","Notes":"Updated setup process with new url (thanks to feedback)\r\nDoesn?t open settings on devices w/o batt health","Release":"May 31, 2025"}
