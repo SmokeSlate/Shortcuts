@@ -1,1 +1,0 @@
-{"result":"success","id":38864,"Version":"2.1","URL":"https://www.icloud.com/shortcuts/2f230899d2904ee0ba609e91c202d846","Notes":"Changes:\r\n? Added Tomorrow \r\n? Made so you can report issues in the shortcut\r\n? Performance optimization \r\nKnown Bugs:\r\n? After denying a update and trying to use ?Exit?, Shortcut still continues","Release":"May 20, 2023"}

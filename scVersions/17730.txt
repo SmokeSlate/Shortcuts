@@ -1,1 +1,0 @@
-{"result":"success","id":44395,"Version":"2.4","URL":"https://www.icloud.com/shortcuts/e35b5f4718614283ac0d7ac293720de2","Notes":"UPDATE","Release":"January 15, 2024"}
