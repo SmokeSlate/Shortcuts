@@ -1,1 +1,1 @@
-hu
+{"result":"success","id":udbBeta,"Version":"0.1","URL":"https://www.icloud.com/shortcuts/f5073b573a37434a8260dc455f4b8f08","Notes":"Beta for r/Shortcuts Discord ONLY","Release":"December 25, 2025"}
