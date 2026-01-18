@@ -1,1 +1,1 @@
-{"result":"success","id":56090,"Version":"4.1","URL":"https://www.icloud.com/shortcuts/a776b036ddb34ff3ae7499222263a879","Notes":"Quick fix from development.","Release":"October 08, 2025"}
+{"result":"success","id":57238,"Version":"4.2","URL":"https://www.icloud.com/shortcuts/68797c6af42441c8bc1cd76d537862ac","Notes":"force\r\n? New features:\r\n- None\r\n? Bug Fixes:\r\n- Fixed setup","Release":"January 18, 2026"}
